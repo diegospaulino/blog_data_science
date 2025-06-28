@@ -1,0 +1,21 @@
+---
+title: "Meu novo post"
+description: "Este é apenas um post de testes"
+author: "Diego"
+date: "2025-06-28"
+categories: ["testes"]
+image: ""
+image-alt: ""
+---
+
+## Introduction
+
+Write your blog post content here.
+
+## Main Content
+
+Your main content goes here.
+
+## Conclusion
+
+Wrap up your post here.
