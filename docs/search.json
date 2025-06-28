@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "Meu ultimo blog",
     "section": "",
-    "text": "Post With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nJun 28, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJun 25, 2025\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+    "text": "Meu novo post\n\n\n\ntestes\n\n\n\nEste é apenas um post de testes\n\n\n\n\n\nJun 28, 2025\n\n\nDiego\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nJun 28, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJun 25, 2025\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -26,5 +26,33 @@
     "title": "Post With Code",
     "section": "",
     "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "posts/meu-novo-post/index.html",
+    "href": "posts/meu-novo-post/index.html",
+    "title": "Meu novo post",
+    "section": "",
+    "text": "Write your blog post content here."
+  },
+  {
+    "objectID": "posts/meu-novo-post/index.html#introduction",
+    "href": "posts/meu-novo-post/index.html#introduction",
+    "title": "Meu novo post",
+    "section": "",
+    "text": "Write your blog post content here."
+  },
+  {
+    "objectID": "posts/meu-novo-post/index.html#main-content",
+    "href": "posts/meu-novo-post/index.html#main-content",
+    "title": "Meu novo post",
+    "section": "Main Content",
+    "text": "Main Content\nYour main content goes here."
+  },
+  {
+    "objectID": "posts/meu-novo-post/index.html#conclusion",
+    "href": "posts/meu-novo-post/index.html#conclusion",
+    "title": "Meu novo post",
+    "section": "Conclusion",
+    "text": "Conclusion\nWrap up your post here."
   }
 ]
